@@ -32,7 +32,6 @@
 
 ----- 4. Поняття Common Intermediate Language - це синонім до Microsoft Intermediate Language. Тому рішення цієї задачі находиться вище.
 
-
 ----- 5. Поняття Just-In-Time Compiler згідно наступних сайтів
 Визначення: In computing, just-in-time (JIT) compilation (also dynamic translation or run-time compilations)[1] is compilation (of computer code) during execution of a program (at run time) rather than before execution.[
 Посилання: https://en.wikipedia.org/wiki/Just-in-time_compilation
