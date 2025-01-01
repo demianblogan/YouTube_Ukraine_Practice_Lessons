@@ -2,8 +2,8 @@
 {
     static void Main()
     {
-        System.Console.WriteLine("This pain is always with me.");
-        System.Console.WriteLine("Every time I remember her, my heart is being broken.");
-        System.Console.WriteLine("I just can't live without that soul...");
+        System.Console.WriteLine("It is my 6th homework.");
+        System.Console.WriteLine("It's so exciting.");
+        System.Console.WriteLine("Finally I am writing some code.");
     }
 }
