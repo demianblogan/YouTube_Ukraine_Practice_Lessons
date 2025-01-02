@@ -1,0 +1,6 @@
+1. Ось декілька англомовних джерел по опису типів даних:
+
+https://www.w3schools.com/cs/cs_data_types.php
+https://www.geeksforgeeks.org/c-sharp-data-types/
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types
+https://www.tutorialsteacher.com/csharp/csharp-data-types
