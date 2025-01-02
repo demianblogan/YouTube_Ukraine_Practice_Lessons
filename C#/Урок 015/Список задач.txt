@@ -1,0 +1,5 @@
+1. Загугліть в інтернеті наступні речі і почитайте інфорацію по ним:
+   - Code Convention
+   - Code Convention C#
+   - Code Convention Google
+   - Code Convention Microsoft
