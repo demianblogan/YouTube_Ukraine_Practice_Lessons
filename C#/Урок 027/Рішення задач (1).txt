@@ -1,0 +1,2 @@
+1. Ось посилання на форум, де розповідають, як правильно порівнювати:
+   https://stackoverflow.com/questions/3874627/floating-point-comparison-functions-for-c-sharp

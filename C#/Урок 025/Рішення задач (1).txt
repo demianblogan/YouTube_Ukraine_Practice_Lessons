@@ -1,0 +1,2 @@
+1. Ось одне з джерел, яке може розказати про інкремент і декремент:
+   https://www.oreilly.com/library/view/learning-c-30/9780596155018/ch04s04.html
