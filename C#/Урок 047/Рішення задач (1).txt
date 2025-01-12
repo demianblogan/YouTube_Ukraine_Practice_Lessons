@@ -1,0 +1,4 @@
+1. Ось декілька сайтів, які розкажуть про область видимості:
+
+- https://www.tutorialsteacher.com/articles/variable-scopes-in-csharp
+- https://stackoverflow.com/questions/5530118/c-sharp-an-objects-scope
