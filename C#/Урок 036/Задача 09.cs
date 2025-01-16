@@ -1,4 +1,4 @@
-﻿class Program
+class Program
 {
     static void Main()
     {
@@ -19,8 +19,8 @@
         {
             case 'a':
             case 'A':
-                System.Console.WriteLine("Правильна відповідь! На вашому рахунку 100 000 доларів!");
-                balance += 100_000;
+                balance += 10_000;
+                System.Console.WriteLine($"Правильна відповідь! На вашому рахунку {balance} доларів!");
 
                 // Question #2:
                 System.Console.WriteLine("Питання 2 (на 900 000 доларів): Скільки планет є в сонячній системі?");
@@ -33,11 +33,10 @@
 
                 switch (answer)
                 {
-
                     case 'b':
                     case 'B':
-                        System.Console.WriteLine("Правильна відповідь! На вашому рахунку 1 000 000 доларів!");
-                        balance += 900_000;
+                        balance += 90_000;
+                        System.Console.WriteLine($"Правильна відповідь! На вашому рахунку {balance} доларів!");
 
                         // Question #3:
                         System.Console.WriteLine("Питання 3 (на 9 000 000 доларів): Яка порода собак схожа на сосиску?");
@@ -52,8 +51,8 @@
                         {
                             case 'c':
                             case 'C':
+                                balance += 900_000;
                                 System.Console.WriteLine("Правильна відповідь! Ви виграли мільйон!");
-                                balance += 1_000_000;
                                 System.Console.WriteLine("Ваш баланс: $" + balance);
                                 break;
 
