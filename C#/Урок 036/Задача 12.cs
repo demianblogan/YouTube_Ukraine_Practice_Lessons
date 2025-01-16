@@ -1,4 +1,4 @@
-﻿class Program
+class Program
 {
     static void Main()
     {
@@ -11,9 +11,7 @@
         System.Console.Write("Enter deposit: ");
         decimal deposit = System.Convert.ToDecimal(System.Console.ReadLine());
 
-        decimal sum = initialSum;
-        for (int year = 1; year <= years; year++)
-            sum += deposit;
+        decimal sum = initialSum + (deposit * years);
 
         System.Console.WriteLine($"You will get {sum:C} in {years} years");
     }
