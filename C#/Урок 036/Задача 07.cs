@@ -20,11 +20,11 @@
                 break;
             case 's':
             case 'S':
-                System.Console.WriteLine("Hero is moving left");
+                System.Console.WriteLine("Hero is moving backward");
                 break;
             case 'a':
             case 'A':
-                System.Console.WriteLine("Hero is moving backward");
+                System.Console.WriteLine("Hero is moving left");
                 break;
         }
     }
