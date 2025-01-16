@@ -6,11 +6,11 @@ class Program
         bool isFanSpinning = false;
         byte fanSpeed = 0;
 
-        System.Console.Write("Is the fan turned on? (1 - yes, 0 - no): ");
+        System.Console.Write("Is the fan turned on? (type 'True' or 'False'): ");
         isFanTurnedOn = System.Convert.ToBoolean(System.Console.ReadLine());
         if (isFanTurnedOn)
         {
-            System.Console.Write("Is the fan spinning on? (1 - yes, 0 - no): ");
+            System.Console.Write("Is the fan spinning on? (type 'True' or 'False'): ");
             isFanSpinning = System.Convert.ToBoolean(System.Console.ReadLine());
             if (isFanSpinning)
             {
@@ -55,6 +55,14 @@ class Program
                         break;
                 }
             }
+            else
+            {
+                System.Console.WriteLine("Fan isn't spinning.");
+            }
+        }
+        else
+        {
+            System.Console.WriteLine("Fan is turned off.");
         }
     }
 }
