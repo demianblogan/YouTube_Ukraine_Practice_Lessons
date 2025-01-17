@@ -1,4 +1,4 @@
-﻿class Program
+class Program
 {
     static void Main()
     {
@@ -6,7 +6,7 @@
 
         do
         {
-            System.Console.Write("Enter minimum number and maximum numbers: ");
+            System.Console.Write("Enter minimum and maximum numbers: ");
             minimum = System.Convert.ToInt32(System.Console.ReadLine());
             maximum = System.Convert.ToInt32(System.Console.ReadLine());
 
@@ -23,8 +23,8 @@
             subMinimum = System.Convert.ToInt32(System.Console.ReadLine());
             subMaximum = System.Convert.ToInt32(System.Console.ReadLine());
 
-            if (minimum > maximum)
-                System.Console.WriteLine("Minimum number can't be greater that maximun. Try again.");
+            if (subMinimum > subMaximum)
+                System.Console.WriteLine("Sub minimum number can't be greater that sub maximun. Try again.");
             if (subMinimum < minimum)
                 System.Console.WriteLine("Sub minimum mast be greater or equal to minimum. Try again.");
             if (subMaximum > maximum)
