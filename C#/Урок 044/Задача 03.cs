@@ -1,4 +1,4 @@
-﻿class Program
+class Program
 {
     static void Main()
     {
@@ -11,17 +11,25 @@
         bool isPrimeNumber = true;
 
     CheckingIfNumberIsPrime:
+        if (number == 2)
+        {
+            System.Console.WriteLine("Your number is prime");
+            goto EnteringPositiveNumber;
+        }
+
         int divisor = 2;
-            if (number % divisor == 0)
-                isPrimeNumber = false;
+        if (number % divisor == 0)
+            isPrimeNumber = false;
 
         divisor++;
 
-        if (divisor * divisor < number)
+        if (isPrimeNumber && divisor * divisor < number)
             goto CheckingIfNumberIsPrime;
 
         if (isPrimeNumber)
             System.Console.WriteLine("Your number is prime");
+        else
+            System.Console.WriteLine("Your number isn't prime");
 
         goto EnteringPositiveNumber;
     }
