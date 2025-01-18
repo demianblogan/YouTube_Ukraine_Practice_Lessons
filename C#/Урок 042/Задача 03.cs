@@ -1,4 +1,4 @@
-﻿class Program
+class Program
 {
     static void Main()
     {
@@ -10,12 +10,18 @@
 
             int menuItem = System.Convert.ToInt32(System.Console.ReadLine());
 
-            if (menuItem == 1)
-                System.Console.WriteLine("Game is started");
-            else if (menuItem == 2)
-                System.Console.WriteLine("Game is loaded");
-            else if (menuItem == 3)
+            if (menuItem == 3)
                 break;
+
+            switch (menuItem)
+            {
+                case 1:
+                    System.Console.WriteLine("Game is started");
+                    break;
+                case 2:
+                    System.Console.WriteLine("Game is loaded");
+                    break;
+            }
         }
     }
 }
