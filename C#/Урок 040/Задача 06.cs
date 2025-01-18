@@ -1,4 +1,4 @@
-﻿class Program
+class Program
 {
     static void Main()
     {
@@ -11,10 +11,8 @@
         }
         else
         {
-            int tempNumber = number >= 0 ? number : -number;
-
             int digitsCount = 0;
-            for (; tempNumber > 0; tempNumber /= 10)
+            for (int tempNumber = number; tempNumber > 0; tempNumber /= 10)
                 digitsCount++;
 
             System.Console.WriteLine($"{number} has {digitsCount} digit(s)");
