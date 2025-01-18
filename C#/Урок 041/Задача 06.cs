@@ -1,13 +1,13 @@
-﻿class Program
+class Program
 {
     static void Main()
     {
-        int rombusHeight = 5;
+        int rhombusHeight = 11;
 
         int charsInRow = 1;
-        int spacesInRow = rombusHeight / 2;
+        int spacesInRow = rhombusHeight / 2;
 
-        for (int row = 0 ; row < rombusHeight; row++)
+        for (int row = 0; row < rhombusHeight; row++)
         {
             for (int i = 0; i < spacesInRow; i++)
                 System.Console.Write(" ");
@@ -17,7 +17,7 @@
 
             System.Console.WriteLine();
 
-            if (row < rombusHeight / 2)
+            if (row < rhombusHeight / 2)
             {
                 spacesInRow--;
                 charsInRow += 2;
