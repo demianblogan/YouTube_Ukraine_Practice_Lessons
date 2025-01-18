@@ -1,2 +1,0 @@
-1. Посилання на метод ToString:
-   https://learn.microsoft.com/en-us/dotnet/api/system.object.tostring?view=net-9.0

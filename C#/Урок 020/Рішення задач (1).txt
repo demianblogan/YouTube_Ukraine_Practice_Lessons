@@ -1,2 +1,0 @@
-1. Достатньо ось цього детального гайду:
-   https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/

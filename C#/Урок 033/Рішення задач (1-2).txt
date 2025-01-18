@@ -1,9 +1,0 @@
-1. Ось сайт, який добре пояснює, як діляться числа по бітам:
-   https://www.geeksforgeeks.org/binary-division/
-
-2. Я набір із 4 відео з ютубу, які пояснюють, як відбуваються побітові операції над дробовими значеннями,
-   але всі вони на англійській мові. В своєму практичному уроці я брав знання саме з них, пояснюючи те саме:
-   - Додавання:  https://www.youtube.com/watch?v=aH11flclJDI
-   - Віднімання: https://www.youtube.com/watch?v=JnorFLL86DE
-   - Множення:   https://www.youtube.com/watch?v=27JjUa-eu_E
-   - Ділення:    https://www.youtube.com/watch?v=fi8A4zz1d-s

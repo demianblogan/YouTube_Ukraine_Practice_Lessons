@@ -1,4 +1,0 @@
-1. Ось декілька сайтів, які розкажуть, що таке цикли в C#:
-   - https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/branches-and-loops-local
-   - https://www.geeksforgeeks.org/loops-in-c-sharp/
-   - https://www.tutorialspoint.com/csharp/csharp_loops.htm

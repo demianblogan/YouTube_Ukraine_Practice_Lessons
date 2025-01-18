@@ -1,4 +1,0 @@
-1. Ось декілька джерел по вивченню switch:
-   - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements
-   - https://www.w3schools.com/cs/cs_switch.php
-   - https://code-basics.com/ru/languages/csharp/lessons/switch

@@ -1,4 +1,0 @@
-1. Ось декілька сайтів, які розкажуть про оператор if і не тільки:
-   - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements
-   - https://www.w3schools.com/cs/cs_conditions.php
-   - https://www.w3schools.com/cs/cs_conditions_elseif.php

@@ -1,4 +1,0 @@
-1. Ось декілька джерел, які розкажуть про відмінність видів пам'яті між собою:
-
-- https://endjin.com/blog/2022/07/understanding-the-stack-and-heap-in-csharp-dotnet
-- https://medium.com/@CodeWithHonor/c-stack-vs-heap-memory-f8a737af9919

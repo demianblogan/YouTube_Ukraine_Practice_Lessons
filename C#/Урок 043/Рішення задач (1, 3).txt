@@ -1,5 +1,0 @@
-1. Ось декілька джерел, які розкажуть про continue:
-   - https://itproger.com/ua/spravka/csharp/continue
-   - https://www.w3schools.com/cs/cs_break.php
-
-3. Посилання на статтю є в умові, рекомендую почитати.
