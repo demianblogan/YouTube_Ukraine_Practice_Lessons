@@ -1,0 +1,5 @@
+1. Ось декілька сайтів, які пояснюють різницю між типами-значеннями і типами-посиланнями:
+
+- https://www.tutorialsteacher.com/csharp/csharp-value-type-and-reference-type
+- https://learn.microsoft.com/uk-ua/dotnet/csharp/language-reference/keywords/reference-types
+- https://stackoverflow.com/questions/5057267/what-is-the-difference-between-a-reference-type-and-value-type-in-c
