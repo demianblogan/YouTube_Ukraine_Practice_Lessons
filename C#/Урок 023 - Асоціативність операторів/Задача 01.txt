@@ -1,0 +1,2 @@
+1. Ось вам одне з джерел по асоціативності операторів:
+   https://www.programiz.com/csharp-programming/operator-precedence-associativity
