@@ -1,4 +1,4 @@
-﻿class Program
+class Program
 {
     static void Main()
     {
@@ -12,14 +12,12 @@
         }
         else
         {
-            int tempNumber = number >= 0 ? number : -number;
-            int digitsCount = 0;
-
             System.Console.Write("Reversed number  = ");
             if (number < 0)
                 System.Console.Write("-");
 
-            for (; tempNumber > 0; tempNumber /= 10)
+            int digitsCount = 0;
+            for (int tempNumber = (number >= 0 ? number : -number); tempNumber > 0; tempNumber /= 10)
             {
                 System.Console.Write(tempNumber % 10);
                 digitsCount++;
