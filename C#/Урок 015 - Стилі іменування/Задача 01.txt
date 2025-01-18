@@ -1,0 +1,8 @@
+1. Ось стаття, яка описує що таке Coding convention:
+https://en.wikipedia.org/wiki/Coding_conventions#:~:text=Coding%20conventions%20are%20a%20set,program%20written%20in%20that%20language.
+
+2. Декілька порад від Microsoft по Coding convention:
+https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+
+3. Опис того, як в компанії Goolge C# розробники пишуть код:
+https://google.github.io/styleguide/csharp-style.html

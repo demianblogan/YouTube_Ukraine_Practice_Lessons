@@ -1,0 +1,5 @@
+1. Ось декілька сайтів, де дають поради по написанню коментарів:
+
+- https://blog.boot.dev/clean-code/code-comments/?utm_source=google&utm_medium=cpc&utm_campaign=22081719049&gad_source=1&gclid=Cj0KCQiAj9m7BhD1ARIsANsIIvA_zw4R0M-GjlhvLmiruV9vZ0O45sTImI2V2AdOMdH70RqMGwI6KSAaAmTBEALw_wcB
+- https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/
+- https://daily.dev/blog/10-code-commenting-best-practices-for-developers
