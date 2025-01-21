@@ -1,4 +1,4 @@
-﻿class Program
+class Program
 {
     static void Main()
     {
@@ -23,19 +23,19 @@
         for (int i = 0; i < array.Length; i++)
             System.Console.WriteLine($"array[{i}] = {array[i]}");
 
-        bool isArrayPalindrom = true;
+        bool isArrayPalindrome = true;
         for (int i = 0, j = array.Length - 1; i < j; i++, j--)
         {
             if (array[i] != array[j])
             {
-                isArrayPalindrom = false;
+                isArrayPalindrome = false;
                 break;
             }
         }
 
-        if (isArrayPalindrom)
-            System.Console.WriteLine("Your array is a palindrom");
+        if (isArrayPalindrome)
+            System.Console.WriteLine("Your array is a palindrome");
         else
-            System.Console.WriteLine("Your array isn't a palindrom");
+            System.Console.WriteLine("Your array isn't a palindrome");
     }
 }
