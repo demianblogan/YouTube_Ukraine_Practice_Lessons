@@ -50,7 +50,7 @@ class Program
             // Add the digit to the reversed number:
             reversedNumber = reversedNumber * 10 + digit;
 
-            // Remove the last digit from the original number
+            // Remove the last digit from the original number:
             number /= 10;
         }
 
