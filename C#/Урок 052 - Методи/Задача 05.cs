@@ -1,4 +1,4 @@
-﻿class Program
+class Program
 {
     static void Main()
     {
@@ -29,11 +29,12 @@
     static int CountDigits(int number)
     {
         int digits = 0;
-        while (number != 0)
+        do
         {
             digits++;
             number /= 10;
-        }
+        } while (number != 0);
+
         return digits;
     }
 
