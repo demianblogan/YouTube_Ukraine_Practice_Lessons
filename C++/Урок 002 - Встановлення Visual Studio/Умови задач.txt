@@ -1,0 +1,10 @@
+1. Прочитати статтю про IDE:
+https://ru.wikipedia.org/wiki/Интегрированная_среда_разработки
+
+2. Прочитати статтю про Visual Studio:
+https://ru.wikipedia.org/wiki/Microsoft_Visual_Studio
+
+3. Встановити Visual Studio Community:
+https://visualstudio.microsoft.com/ru
+
+4. Зареєструвати свій аккаунт в Visual Studio і зайти в свій профіль після запуску Visual Studio.

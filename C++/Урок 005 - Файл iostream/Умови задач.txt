@@ -1,0 +1,11 @@
+1. Прочитати декілька статей про те, що таке препроцессорна директива:
+https://ru.wikibooks.org/wiki/Си++/Препроцессорные_директивы
+https://docs.microsoft.com/ru-ru/dotnet/csharp/language-reference/preprocessor-directives
+
+2. Прочитати статті про файл iostream:
+https://ru.wikipedia.org/wiki/Iostream
+https://www.geeksforgeeks.org/basic-input-output-c/
+
+3. Прочитати статті про IntelliSense:
+https://ru.wikipedia.org/wiki/IntelliSense
+https://docs.microsoft.com/en-us/visualstudio/ide/using-intellisense?view=vs-2022
