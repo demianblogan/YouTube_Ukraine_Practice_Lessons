@@ -1,0 +1,4 @@
+--------------------------------------- Теорія ---------------------------------------
+	1. Почитати про оператори з інших джерел. Ось декілька статей:
+	https://uk.wikipedia.org/wiki/Оператори_в_C_та_C++
+	https://docs.microsoft.com/ru-ru/cpp/cpp/cpp-built-in-operators-precedence-and-associativity?view=msvc-170
