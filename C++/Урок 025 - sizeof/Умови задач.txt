@@ -1,0 +1,28 @@
+1. Ось всі типи, які ви знаєте на даний момент, разом з ключовим словом unsigned:
+
+   Цілочисельні типи:
+   - short
+   - unsigned short
+   - int
+   - unsigned int
+   - long
+   - unsigned long
+   - long long
+   - unsigned long long
+   Дробові типи:
+   - float
+   - double
+   - long double
+   Символьні типи:
+   - char
+   - unsigned char
+   - wchar_t
+   - char16_t
+   - char32_t
+   Логічний тип:
+   - bool
+
+   Виведіть на екран розмір кожного типу, щоб дізнатися, скільки пам'яті вони займають.
+
+
+2. Почитайте про оператор sizeof в інтернеті. Є шанс, що дізнаєтеся щось нове.
