@@ -1,0 +1,7 @@
+1. Підготуйтеся до вивчення циклів на моїх наступних уроках: загугліть в інтернеті наступні речі:
+   - Programming loop   / Цикл программирование
+   - Loops C++          / Циклы C++
+   - Loop while C++     / Цикл while C++
+   - Loop do while C++  / Цикл do while C++
+   - Loop for C++       / Цикл for C++
+   - Loop range for C++ / Цикл range for C++
